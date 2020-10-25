@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: 'first-mvh'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_4093646ad5f34dfeb8fa91ffccd53d7a }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c67a2803cdf241d5aaf6e92699b95f9a }}
         package: '.\myapp.zip'
